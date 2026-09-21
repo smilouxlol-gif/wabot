@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+run/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class

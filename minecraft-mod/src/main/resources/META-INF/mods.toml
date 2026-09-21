@@ -1,0 +1,10 @@
+modLoader="forge"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="miprimermod"
+version="${mod_version}"
+displayName="Mi Primer Mod"
+authors="TuNombre"
+description="Un mod de ejemplo con un item de limón que da velocidad."
